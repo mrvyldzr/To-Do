@@ -1,8 +1,8 @@
 # To-Do App
 
-DESIGN FILE
+DESIGN FILE: To-Do app was developed according to the figma design below.
 
-https://www.figma.com/file/EEy2G4zf1YXedmM5g5oC7O/Learn-UIUX-%3A-To-Do-List-App-(Community)?type=design&node-id=0%3A1&mode=design&t=3pJMa0hqoBTDPtKs-1
+https://www.figma.com/file/EEy2G4zf1YXedmM5g5oC7O/Learn-UIUX-%3A-To-Do-List-App-(Community)?type=design&node-id=0%3A1&mode=design&t=3pJMa0hqoBTDPtKs-1 
 
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/b9a44076-9bc6-49ef-8565-47a32a931212" alt="" width="225" height="500">
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/7cdb5f0a-dbf5-446f-9b5a-3cccb37525e3" alt="" width="225" height="500">
