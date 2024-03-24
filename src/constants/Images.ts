@@ -1,0 +1,17 @@
+export default  {
+    TO_DO_TITLE_IMAGE: require('../assets/images/TO_DO_TITLE_IMAGE.png'),
+    TO_DO_LIST_IMAGE: require('../assets/images/TO_DO_LIST_IMAGE.png'),
+    UNION: require('../assets/images/UNION.png'),
+    FILTER: require('../assets/images/FILTER.png'),
+    SETTINGS: require('../assets/images/SETTINGS.png'),
+    PLUS_CIRCLE: require('../assets/images/PLUS_CIRCLE.png'),
+    LINE: require('../assets/images/LINE.png'),
+    CALENDAR: require('../assets/images/CALENDAR.png'),
+    CLOCK: require('../assets/images/CLOCK.png'),
+    EDIT: require('../assets/images/EDIT.png'),
+    LEFT_ARROW: require('../assets/images/LEFT_ARROW.png'),
+    TRASH: require('../assets/images/TRASH.png'),
+    MAKE_UI_DESIGN_IMAGE: require('../assets/images/MAKE_UI_DESIGN_IMAGE.png'),
+    CHECKED: require('../assets/images/CHECKED.png'),
+    UNCHECKED: require('../assets/images/UNCHECKED.png'),
+}
