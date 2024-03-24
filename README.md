@@ -1,7 +1,6 @@
 # To-Do
 
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/2b56f4ac-3fcb-439d-8505-13ed2c85e64b" alt="" width="225" height="500">
-<img src="https://github.com/mrvyldzr/To-Do/assets/46750665/2b56f4ac-3fcb-439d-8505-13ed2c85e64b" alt="" width="225" height="500">
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/ea08c60f-dc5b-4cb7-ad20-dd05b4c4df08" alt="" width="225" height="500">
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/e9316afa-9117-4025-8bd9-812667d5b5c8" alt="" width="225" height="500">
 <img src="https://github.com/mrvyldzr/To-Do/assets/46750665/ea08c60f-dc5b-4cb7-ad20-dd05b4c4df08" alt="" width="225" height="500">
